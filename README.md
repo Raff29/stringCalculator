@@ -5,7 +5,7 @@ stringCalculator is my solution in response to 7shifts coding exercise for a dev
 The stringCalculator will take a string of numbers seperated by a comma and will display the sum of those numbers. 
 The calculator supports a custom delimiter where in the beginning of the string
 will now contain a small control code that lets you set a custom delimiter in the format
-“//[delimiter]\[delimiter separated numbers].
+“//[delimiter]\\[delimiter separated numbers].
 
 Example: “//;\n1;3;4” - Result: 8
 
