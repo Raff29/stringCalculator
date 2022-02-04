@@ -53,4 +53,5 @@ test = Add("1,-3,-4")
 ## Contact
 
 Raphael Pinto - raphael.pinto@usask.ca
+
 Project Link: https://github.com/Raff29/stringCalculator
